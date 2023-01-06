@@ -1,0 +1,15 @@
+package p120820;
+
+
+public class Solution {
+	public int solution(int age) {
+        return 2022 - age + 1;
+    }
+	
+
+	public static void main(String[] args) {
+		
+		
+	}
+
+}
